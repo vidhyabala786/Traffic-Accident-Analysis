@@ -47,6 +47,7 @@ Data visualization
 3. Run all cells
 
 **Related Certification:** AWS Certified Cloud Practitioner (CLF-C02) – March 2026
+
 **Received Data Analytics Badge**– Issued by **St. Francis Xavier University** on behalf of Digital Nova Scotia & Skills for Hire Atlantic — June 2025
 
 ---

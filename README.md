@@ -23,11 +23,14 @@ When do traffic accidents occur most frequently?
 How does weather impact accident severity?
 Are certain times of day more dangerous?
 What patterns exist across different conditions?
+Are there certain causes that always factor in for the most number of accidents?
+
 ## Key Insights
 Peak accident frequency occurs during rush hours (late afternoon to evening).
 Adverse weather conditions (rain, fog) are associated with higher accident severity.
 Weekdays show higher accident counts compared to weekends and time of day like Darkness vs day light makes it more prone to accidents.
 Certain time intervals consistently show elevated risk patterns.
+Certain causes like failing to yield, following too closely, disregarding traffic signals suggest gaps in road rules knowledge among drivers,traffic law enforcement and other social factors like road conditions leading to delays 
 
 ## Analysis Performed
 Data Wrangling

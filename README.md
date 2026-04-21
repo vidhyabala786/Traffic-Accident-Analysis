@@ -30,7 +30,7 @@ Peak accident frequency occurs during rush hours (late afternoon to evening).
 Adverse weather conditions (rain, fog) are associated with higher accident severity.
 Weekdays show higher accident counts compared to weekends and time of day like Darkness vs day light makes it more prone to accidents.
 Certain time intervals consistently show elevated risk patterns.
-Certain causes like failing to yield, following too closely, disregarding traffic signals suggest gaps in road rules knowledge among drivers,traffic law enforcement and other social factors like road conditions leading to delays 
+Majority of the accidents are linked to behavioral factors such as failing to yield, following too closely, and disregarding traffic signals. This indicates that the driver behavior plays a main role in accident occurrence and suggests opportunities for improved traffic enforcement,driver education/awareness initiatives,road conditions.
 
 ## Analysis Performed
 Data Wrangling
